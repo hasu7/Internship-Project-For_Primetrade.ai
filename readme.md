@@ -36,7 +36,7 @@ src/
 ## ⚙️ Setup Instructions
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/hasu7/Internship-Project-For_Primetrade.ai.git
 cd project
 npm install
 npm run dev
