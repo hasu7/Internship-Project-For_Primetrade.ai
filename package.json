@@ -1,0 +1,12 @@
+{
+  "name": "intership_project_primetrade.ai",
+  "version": "1.0.0",
+  "description": "Project for intership at Primetrade.ai",
+  "license": "ISC",
+  "author": "Pankaj Kumar Jha",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
